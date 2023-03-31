@@ -1,0 +1,36 @@
+header {
+  background-color: #8e1717;
+  color: white;
+  padding: 12px;
+}
+header .content {
+  display: flex;
+  justify-content: space-between;
+}
+.heading .text {
+  color: white;
+  background-color: #3f3737;
+  width: 60%;
+  margin: auto;
+  margin-top: -75px;
+  position: relative;
+  padding: 20px;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 0.8rem;
+  margin-bottom: 20px;
+}
+.heading .text h2 {
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.warnn {
+  color: red;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+  background-color: #4c1818;
+  padding: 13px;
+  border-radius: 20px;
+}

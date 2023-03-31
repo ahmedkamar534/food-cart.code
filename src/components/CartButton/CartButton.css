@@ -1,0 +1,15 @@
+.cart {
+  color: white;
+  background-color: #4c1818;
+  border-radius: 30px;
+  border: none;
+  padding: 0 25px;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+button .three {
+  background-color: #8e1717;
+  padding: 3px 8px;
+  border-radius: 50%;
+}

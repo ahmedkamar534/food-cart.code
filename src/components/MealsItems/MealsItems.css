@@ -1,0 +1,45 @@
+.mealsItems {
+  border-bottom: 1px solid #80808052;
+  margin-top: 10px;
+}
+.mealsItems .type {
+  font-weight: 900;
+  margin: 0;
+}
+.mealsItems .desc {
+  color: #777;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0;
+}
+.mealsItems .price {
+  color: #8e1717;
+  font-weight: bold;
+}
+.mealsItems .action label {
+  font-weight: bold;
+}
+.mealsItems .action input {
+  border: 1px solid #80808094;
+  padding: 0px 2px;
+  margin-left: 15px;
+  text-align: center;
+}
+
+.mealsItems .action button {
+  border: none;
+  background-color: #8e1717;
+  color: white;
+  padding: 2px 30px;
+
+  border-radius: 10px;
+  margin-left: 35px;
+  margin-top: 12px;
+}
+.added {
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 12px;
+  color: red;
+  font-weight: bold;
+}

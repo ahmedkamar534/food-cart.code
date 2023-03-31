@@ -1,0 +1,35 @@
+.modal-body {
+  border-bottom: 2px solid #8e1717;
+}
+.modal-body p {
+  font-weight: bold;
+  font-size: 1.3rem;
+  margin-bottom: 5px;
+}
+.modal-body .a {
+  margin-right: 40px;
+
+  color: #8e1717;
+  font-weight: bold;
+}
+.modal-body .b {
+  border: 1px solid #80808038;
+  padding: 3px 11px;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+.modal-body button {
+  border: 1px solid #8e1717;
+  padding: 0px 15px;
+  background-color: transparent;
+  border-radius: 5px;
+  margin-right: 5px;
+  color: #8e1717;
+  font-weight: bold;
+}
+.btss {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 5px;
+}
